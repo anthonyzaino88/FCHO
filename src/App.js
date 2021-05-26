@@ -4,7 +4,7 @@ import Home from './pages/HomePage/Home';
 import About from './pages/About/About';
 import SignUp from './pages/SignUp/SignUp';
 import Projects from './pages/Projects/Projects';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import ScrollToTop from './components/ScrollToTop';
 import { Navbar, Footer } from './components';
 

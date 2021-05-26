@@ -21,7 +21,7 @@ export const InfoColumn = styled.div`
   flex: 1;
   max-width: 50%;
   flex-basis: 50%;
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 650px) {
     max-width: 100%;
     flex-basis: 100%;
     display: flex;
@@ -33,15 +33,19 @@ export const TextWrapper = styled.div`
   max-width: 540px;
   padding-top: 0;
   padding-bottom: 60px;
-  @media screen and (max-width: 768px) {
-    padding-bottom: 65px;
+
   }
 `;
 
 export const ImgWrapper = styled.div`
   max-width: 555px;
-  display: flex;
+  display: block;
+  align-items: center;
   justify-content: ${({ start }) => (start ? 'flex-start' : 'flex-end')};
+
+
+
+
 `;
 
 export const TopLine = styled.div`
@@ -57,7 +61,7 @@ export const Img = styled.img`
   padding-right: 10px;
   padding-bottom: 10px;
   border: 0;
-  max-width: 80%;
+  max-width: 100%;
   vertical-align: center;
   display: inline-block;
   max-height: 400px;

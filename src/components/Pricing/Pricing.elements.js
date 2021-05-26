@@ -20,6 +20,9 @@ export const PricingWrapper = styled.div`
     flex-direction: column;
     align-items: center;
   }
+}
+
+
 `;
 
 export const PricingHeading = styled.h1`
@@ -32,7 +35,7 @@ export const PricingContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 790px) {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -56,7 +59,7 @@ export const PricingCard = styled(Link)`
     transition: all 0.3s ease-out;
     color: #1c2237;
   }
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 790px) {
     width: 90%;
     &:hover {
       transform: none;
