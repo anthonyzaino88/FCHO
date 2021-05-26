@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/FCHO/static/js/main.0e0e6240.chunk.js",
+    "main.js.map": "/FCHO/static/js/main.0e0e6240.chunk.js.map",
+    "runtime-main.js": "/FCHO/static/js/runtime-main.13aa9577.js",
+    "runtime-main.js.map": "/FCHO/static/js/runtime-main.13aa9577.js.map",
+    "static/js/2.1551376d.chunk.js": "/FCHO/static/js/2.1551376d.chunk.js",
+    "static/js/2.1551376d.chunk.js.map": "/FCHO/static/js/2.1551376d.chunk.js.map",
+    "index.html": "/FCHO/index.html",
+    "static/js/2.1551376d.chunk.js.LICENSE.txt": "/FCHO/static/js/2.1551376d.chunk.js.LICENSE.txt",
+    "static/media/FCHO_1.png": "/FCHO/static/media/FCHO_1.dbbc80ae.png",
+    "static/media/FCHOlogo1.png": "/FCHO/static/media/FCHOlogo1.211a2833.png",
+    "static/media/Tebow.jpg": "/FCHO/static/media/Tebow.82b5bbd7.jpg",
+    "static/media/ant.jpeg": "/FCHO/static/media/ant.93fb44aa.jpeg",
+    "static/media/hockeyrink1.jpg": "/FCHO/static/media/hockeyrink1.01b7f3fd.jpg",
+    "static/media/hockeyrink2.jpg": "/FCHO/static/media/hockeyrink2.1220aad1.jpg",
+    "static/media/hockeyrink3.jpg": "/FCHO/static/media/hockeyrink3.e2a04080.jpg",
+    "static/media/jp.jpeg": "/FCHO/static/media/jp.91fb3fc7.jpeg",
+    "static/media/mike.jpeg": "/FCHO/static/media/mike.7f26bca1.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13aa9577.js",
+    "static/js/2.1551376d.chunk.js",
+    "static/js/main.0e0e6240.chunk.js"
+  ]
+}
